@@ -1,3 +1,9 @@
+# Steps to Run the Application
+  a) Download or Clone this Repo.
+  b) Open Index.html in your browser.
+  c) 7 Test Cases are present in the feedReader.js file.
+  d) After opening Index.html, Click on any of the test cases present at the bottom of the page in your browser.
+  
 # Project Overview
 
 In this project you are given a web-based application that reads RSS feeds. The original developer of this application clearly saw the value in testing, they've already included [Jasmine](http://jasmine.github.io/) and even started writing their first test suite! Unfortunately, they decided to move on to start their own company and we're now left with an application with an incomplete test suite. That's where you come in.
