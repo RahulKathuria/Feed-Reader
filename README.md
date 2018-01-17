@@ -9,7 +9,7 @@
   c) 7 Test Cases are present in the feedReader.js file.
   
   
-  d) After opening Index.html, Click on any of the test cases present at the bottom of the page in your browser.
+  d) After opening Index.html, Click on any of the test cases present at the bottom of the page in your browser
   
 # Project Overview
 
